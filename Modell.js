@@ -22,17 +22,6 @@ export default class Modell {
         
     }
 
-    /*getUsers() {
-
-        fetch('https://fakestoreapi.com/users')
-            .then(response => response.json())
-            .then(data => {
-                this.#lista = data
-                console.log(this.#lista));
-        })
-        .catch(error=>console.log(error));
-    }*/
-
     deletAdat() {
 
     }
