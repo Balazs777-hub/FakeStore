@@ -22,7 +22,7 @@ export default class Modell {
         
     }
 
-    getUsers() {
+    /*getUsers() {
 
         fetch('https://fakestoreapi.com/users')
             .then(response => response.json())
@@ -31,7 +31,7 @@ export default class Modell {
                 console.log(this.#lista));
         })
         .catch(error=>console.log(error));
-    }
+    }*/
 
     deletAdat() {
 
